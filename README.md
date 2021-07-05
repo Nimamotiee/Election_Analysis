@@ -19,9 +19,9 @@ Determine the winner of the election based on popular vote.
   *369,711
 
 *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  *Jefferson 10.5% for 38,855 total votes
-  *Denver 82.8% for 306,055 total votes
-  *Arapahoe 6.7% for 24,801 total votes
+ * *Jefferson 10.5% for 38,855 total votes
+ * *Denver 82.8% for 306,055 total votes
+ * *Arapahoe 6.7% for 24,801 total votes
 *Which county had the largest number of votes?
   *Denver
 *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
